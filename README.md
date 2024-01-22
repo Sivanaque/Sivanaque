@@ -2,7 +2,7 @@
 
 Well.. I don't have much to say. Shoegaze/Folk lover and random IT developer who do probably stupid things 😏
 
-# Delightful widgets cause that's funny 
+# My escape
 
 <div align="center">
   <a href="https://open.spotify.com/user/Sivanaque">
