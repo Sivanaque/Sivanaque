@@ -2,6 +2,10 @@
 
 Well.. I don't have much to say. Shoegaze/Folk lover and random IT developer who do probably stupid things 😏
 
+# Langages I (mostly) fall in love with
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode)](https://github.com/Jurredr/github-widgetbox)
+
 # My escape
 
 <div align="center">
