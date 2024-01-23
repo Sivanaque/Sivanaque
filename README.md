@@ -4,7 +4,7 @@ Well.. I don't have much to say. Shoegaze/Folk lover and random IT developer who
 
 # Langages I (mostly) fall in love with
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sivanaque&layout=compact)
 
 # My escape
 
