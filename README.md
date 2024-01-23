@@ -4,7 +4,7 @@ Well.. I don't have much to say. Shoegaze/Folk lover and random IT developer who
 
 # Langages I (mostly) fall in love with
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode)](https://github.com/Jurredr/github-widgetbox)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sivanaque&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 # My escape
 
