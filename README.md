@@ -1,6 +1,6 @@
 # That's me !
 
-Well.. I don't have much to say. Shoegaze/Folk lover and random IT developer who do probably stupid things 😏
+Hi there ! Shoegaze/Folk lover and random IT developer who sometimes turn the things that go through his mind real 😏
 
 # Langages I (mostly) fall in love with
 
